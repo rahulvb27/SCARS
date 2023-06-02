@@ -1,10 +1,10 @@
-# Project: CARS
+# Project: SCARS
 
 ![CARS Github Social Poster](https://www.rahulvb.com/cars/github-social-cars.png)
 
-## What is `CARS` all about?
+## What is `SCARS` all about?
 
-Cabin Attendance Reporter System ( inshort `CARS` ), is a non-profit project aimed to allow 
+Synchrony Cabin Attendance Reporter System ( inshort `SCARS` ), is a non-profit project aimed to allow 
 viewers have knowledge over whether an individual or group that they want to interact with
 is/are available at their designated positions or not.
 
@@ -16,7 +16,7 @@ Interested in our project, feel free to ask us at https://www.rahulvb.com/cars/s
 
 Any Suggestion for us? We would happy to hear from you! Mail us at rahulvb.com+cars@gmail.com
 
-View more of our projects: https://projects.rahulvb.com
+View more of our projects: https://projects.rahulvb.com (coming soon!)
 
 P.S. Thank you!
 ##
